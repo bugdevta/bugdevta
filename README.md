@@ -1,9 +1,10 @@
 ## Hi there 👋
 
---
+<hr>
 
 BugDevta
 Engineering • AI • Systems • Sustainability
+<br>
 Building things that actually solve problems.
 
 
