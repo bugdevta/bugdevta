@@ -2,7 +2,8 @@
 
 <hr>
 
-BugDevta
+BugDevta 
+<br>
 Engineering • AI • Systems • Sustainability
 <br>
 Building things that actually solve problems.
