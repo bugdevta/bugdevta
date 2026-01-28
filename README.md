@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+--
+
+BugDevta
+Engineering • AI • Systems • Sustainability
+Building things that actually solve problems.
+
+
 <!--
 **bugdevta/bugdevta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
